@@ -1,15 +1,12 @@
-# Title
-Simple (or clever and funny?) description
+# Shark bite
+Friends swimming in the ocean enjoying there time. One friend feels movement past by. Starts freaking out. Yells SHARK! everyone starts swimming back to the boat.
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 ## Background
-This is why this application exists.
+I thought it would be scary to be bit by a shark
 ## Install
-These are the steps to setup your local environment to run this
-application.
+Click the run button in replit
 ## Usage
-These are the steps to use the application or interact with it.
-### Any optional sections
-i can edit this and watch what it looks like+
+Getting knowledge on how to get away without getting bitten
