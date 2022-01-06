@@ -11,3 +11,11 @@ Click the run button in replit
 ## Usage
 Getting knowledge on how to get away without getting bitten
 :)
+
+
+## TestPlan
+To test the project;
+
+1. Run the test
+2. Check the results
+3. Submit test report
