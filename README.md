@@ -10,3 +10,4 @@ I thought it would be scary to be bit by a shark
 Click the run button in replit
 ## Usage
 Getting knowledge on how to get away without getting bitten
+:)
